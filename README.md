@@ -28,3 +28,5 @@ cd modern-notes-app
 npm install
 npm run dev
 ```
+
+This project is licensed under the MIT License.
